@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 Born on a Monday, my parents later thought I was mentally retarded because I couldn't walk, then one day I stood up and ran.
 
 My first programming experience was at age 8, when I programmed various Lego Mindstorm robots, after I sold beanie babies in the newspaper.
