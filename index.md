@@ -8,8 +8,7 @@ In college while studying Geography I enjoyed using GIS to project different dat
 Learning Java wasn't interesting to me past "Hello World" and "Build a Calculator" so I later chose to play with making fake internet money
 writing smart contracts on the Ethereum network in Solidity and minting tokens. These days I practice Python. Looking forward to C.
 
-If you're reading this, thank you, I want to know you, who you are, and how you found my page. Connect with me an Linkedin and let's have a chat.
-https://www.linkedin.com/in/johnjdailey/
+If you're reading this, thank you, I want to know you, who you are, and how you found my page. Connect with me on [LinkedIn](https://www.linkedin.com/in/johnjdailey/) and let's have a chat. It would be a pleasure to get to know you.
 
 You're awesome for reading my portoflio Homepage. I hope that all of your projects are going well, and that you have plans to accomplish all
 of your dreams in life.
@@ -35,5 +34,5 @@ want to be a better programmer everyday, add value to the lives others with data
 I'm a data scientist in the United States. I help all clients with data science, machine learning, and AI.
 
 ### Contact
-- [Email](mailto:johnjdailey@email.com)
+- [Email](mailto:johnjdailey@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/johnjdailey/)
