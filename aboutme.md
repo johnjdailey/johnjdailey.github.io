@@ -28,3 +28,11 @@ in is like none other, we can do our best to enjoy it, while also creating a bet
 break my intermittent fast, catch up on Data Science topics in the online community, read to learn and practice new concepts, try to build things,
 go on a bike ride every weekday, exercise with my own body weight, and try to follow a keto diet one month, while a blue zone diet the next. I
 want to be a better programmer everyday, add value to the lives others with data science, and promote world peace.
+
+### Data Scientist
+
+I'm a data scientist in the United States. I help all clients with data science, machine learning, and AI.
+
+### Contact
+- [Email](mailto:johnjdailey@email.com)
+- [LinkedIn](https://www.linkedin.com/in/johnjdailey/)
