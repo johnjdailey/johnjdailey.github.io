@@ -21,7 +21,7 @@ with celebrations along the way, to stay agile on the road to success. I hate no
 Shame and curiosity produces the will to overcome. Learning Python SQL, R and C are my priority languages while Java, Javascript, PHP, Rust, and HTML also interest me.
 Failure is not a stranger to me, but I overcome with antifragility. Failure is not the objective, but I embrace the lessons to learn, and try again.
 
-Inspiration comes from the greats, like Guido Van Rossum, Elon Musk, Charles Flint, and Nikola Tesla. Wonder, what will you be remembered for?
+Inspiration comes from the greats, like Guido Van Rossum, Elon Musk, Charles Flint, and Nikola Tesla. Wonder, what will you be remembered for? I'm trying to stand on the shoulders of giants
 What is your legacy? I'm pursuing mine. Life is short, grasp it, cherish it, and love your fellow man. Do what you love. This time we are living 
 in is like none other, we can do our best to enjoy it, while also creating a better future for mankind. I like to do yoga in the morning,
 break my intermittent fast, catch up on Data Science topics in the online community, read to learn and practice new concepts, try to build things,
