@@ -18,7 +18,7 @@ and look forward to the night when I also solve problems in my dreams.
 
 Learning to code has been one of the most exciting journeys in my life. I'm commited to a marathon, not a sprint, or perhaps several sprints,
 with celebrations along the way, to stay agile on the road to success. I hate not knowing everything about computers, and that embarasses me.
-Shame and curiosity produces the will to overcome. Learning Python SQL, R and C are my priority languages while Java, Javascript, PHP, Rust, and HTML also intrest me.
+Shame and curiosity produces the will to overcome. Learning Python SQL, R and C are my priority languages while Java, Javascript, PHP, Rust, and HTML also interest me.
 Failure is not a stranger to me, but I overcome with antifragility. Failure is not the objective, but I embrace the lessons to learn, and try again.
 
 Inspiration comes from the greats, like Guido Van Rossum, Elon Musk, Charles Flint, and Nikola Tesla. Wonder, what will you be remembered for?
