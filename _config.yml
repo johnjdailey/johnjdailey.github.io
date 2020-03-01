@@ -1,3 +1,16 @@
-theme: jekyll-theme-hacker
-title: Welcome to JohnJDailey's Homepage! for Data Science, Machine Learning, and AI.
-description: Feel free to bookmark this to keep an eye on my project updates.
+# Site settings
+title: John Dailey
+email: johnjdailey@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: john_j_dailey
+github_username: johnjdailey
+linkedin_username: johnjdailey
+
+# Build settings
+markdown: kramdown
+
+# Google Analytics
+# google_analytics:
