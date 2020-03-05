@@ -1,1 +1,1 @@
-## 🚀 Explorers path finding site 👨‍🚀 🚀
+## 🚀 John Dailey's Data Science Portfolio 👨‍🚀 🚀
