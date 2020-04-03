@@ -39,16 +39,3 @@ $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "mixins", "base";
-
-@media (min-width: 768px)
-.navbar-default {
-background-color: transparent;
-background-color: #0000009c;
-}
-@media (min-width: 768px)
-header .header-content .header-content-inner {
-background-color: #0000009c;
-padding-top: 10px;
-padding-bottom: 30px;
-margin-top: 22px;
-}
