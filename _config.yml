@@ -1,13 +1,13 @@
 # Site settings
 title: John Dailey
-email: johnjdailey@gmail.com
+email: JohnJDailey@Gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-linkedin_username: johnjdailey
-github_username: johnjdailey
-twitter_username: john_j_dailey
+linkedin_username: JohnJDailey
+github_username: JohnJDailey
+twitter_username: John_J_Dailey
 
 # Build settings
 markdown: kramdown
